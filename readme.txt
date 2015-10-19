@@ -1,35 +1,26 @@
 === Testimonials Plugin ===
 Contributors: Konstantin Milyushenko
-Tags: testimonials
-Donate link: http://example.com/
+Tags: Portfolio? project
+Donate link: https://www.paypal.me/kostikdev
 Requires at least: 4.1
 Tested up to: 4.1
-Stable tag: 4.1
+Stable tag: 4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-New Post_type for testimonials
+New Post_type for Portfolio project
 
 == Description ==
-Плагин Отзывы.
-Новый тип записей. заполняется Администратором.
+Plugin "Portfolio" for Wordpress
 
 == Installation ==
-1. Upload \"test-plugin.php\" to the \"/wp-content/plugins/\" directory.
-1. Activate the plugin through the \"Plugins\" menu in WordPress.
-1. Place \"do_action( \'plugin_name_hook\' );\" in your templates.
+1. Upload all files this plugin to the \"/wp-content/plugins/\" directory.
+2. Activate the plugin through the \"Plugins\" menu in WordPress.
 
 == Frequently Asked Questions ==
-= A question that someone might have =
-An answer to that question.
-
-= What about foo bar? =
-Answer to foo bar dilemma.
 
 == Screenshots ==
-1. The screenshot description corresponds to screenshot-1.(png|jpg|jpeg|gif).
-2. The screenshot description corresponds to screenshot-2.(png|jpg|jpeg|gif).
-3. The screenshot description corresponds to screenshot-3.(png|jpg|jpeg|gif).
+
 
 == Changelog ==
 = 1.0 =
