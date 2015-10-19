@@ -1,6 +1,6 @@
 === Testimonials Plugin ===
 Contributors: Konstantin Milyushenko
-Tags: Portfolio? project
+Tags: Portfolio, project
 Donate link: https://www.paypal.me/kostikdev
 Requires at least: 4.1
 Tested up to: 4.1
